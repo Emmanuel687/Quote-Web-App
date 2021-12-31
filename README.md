@@ -1,23 +1,44 @@
-# Setup and Installation
-Have Visual Studio Code installed
-Have Angular Cli installed
-Have TypeScript installed
-Have a browser(Google Chrome)
+# Quote App Project
+This is a Quote App, 11/10/2021
+By Brenda Andeso
 ## Description
-This is an application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational. 
-## Technologies used
-Angular CLI
-TypeScript
-HTML 5
-CSS
-## Link
- https://emmanuel687.github.io/QuoteWeb-App/
-## Support and contact details
-In case of any issues or alert,feel free to contact me via: E-mail: koechemmanuel2002@gmail.com Phone: +254-13598794
-## Know bugs
-No Bugs at the Moment
-### License
-*{See below for more details on licensing.}*
+This is a Quote App project where by a user is given an opportunity to publish their own quotes.
+This app is built in such a way that the user will key in their name, the quote, the author of the quote and the date then after clicking the publish button, the users quote will be displayed at the published quotes together with the details.
 
-This is under the [MIT](LICENSE) license
-Copyright (c) {2021} **{Emmanuel Koech}**
+## Setup/Installation Requirements
+Have a browser(Google Chrome)
+
+Have visual Studio Code
+
+Have Angular Cli installed
+
+Have TypeScript installed
+
+Read the short text before the form
+
+If you want to clone this project, got to this link [here](https://github.com/bre-nda/Quotes-Project) Paste this url link to your Visual Studio Code and on your terminal , type : git clone(paste URL)
+
+## Known Bugs
+There are no known bugs.
+
+## Technologies Used
+Angular CLI
+
+TypeScript
+
+HTML 5
+
+CSS
+
+### Support and contact details
+You can contact me at:
+
+E-MAIL ADDRESS: brendaandeso4@gmail.com
+
+PHONE:+254743495599
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+#### Copyright
+Copyright (c) {2021} BRENDA ANDESO
