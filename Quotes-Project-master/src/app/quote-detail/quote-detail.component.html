@@ -1,0 +1,7 @@
+<h5>Published by:{{quote.publisher}}; {{quote.completeDate|date}}</h5>
+<h6>Published:{{quote.completeDate|dateCount}} years ago.</h6>
+<div class="col-md-6">
+    <i (click)='upvoteBtnClick()' class="far fa-grin-alt fa-2x"></i> {{upvotes}} &nbsp;&nbsp;&nbsp;
+    <i (click)='downvoteBtnClick()' class="fas fa-angry fa-2x"></i> {{downvotes}}
+</div>
+<button (click)='quoteComplete(true)' class="btn btn-outline-danger">Delete</button>
