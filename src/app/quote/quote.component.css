@@ -27,6 +27,7 @@ h6{
     text-align: center;
     color: grey;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
 }
 h6 :hover{
     color: greenyellow;
