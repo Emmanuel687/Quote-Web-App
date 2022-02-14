@@ -7,7 +7,7 @@ import { Quote } from './quote';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Quotes';
+  title = 'Quotes App';
   
   quotes:Quote[] = [
     new Quote(1,'You only live once, but if you do it right, once is enough','Mae West','Brenda Andeso',new Date(2022,1,1)),
